@@ -17,7 +17,7 @@ export default function Home() {
       
         <ol>
           <li>
-            p2<code>src/app/page.tsx</code>.
+            p3<code>src/app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
