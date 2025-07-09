@@ -14,9 +14,6 @@ export default function Home() {
           priority
         />
 
-
-
-
         
         
         <ol>
