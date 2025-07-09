@@ -17,8 +17,7 @@ export default function Home() {
       
         <ol>
           <li>
-            job6
-            <code>src/app/page.tsx</code>.
+            job7<code>src/app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
